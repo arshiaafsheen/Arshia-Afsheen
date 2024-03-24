@@ -1,0 +1,87 @@
+
+body{
+    text-align: center;
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.ass{
+    width: 570px;
+ margin: 0 auto;
+}
+img{
+    width: 40vw;
+    height: 80vh;
+    border-radius: 50%;
+}
+h1{
+    font-size: 63px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    margin-top: 0px;
+}
+h3{
+   
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 16px;
+ 
+}
+.bold{
+  
+font-weight: bold;
+color:  #99d930;
+font-weight: 900;
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 60px;
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 1px solid #C4C4C4;
+}
+a{
+    color:  #99D930;
+}
+a:hover{
+    color: #131313;
+}
+.header{
+    background-color:#252525;
+    padding: 100px 0;
+    color:  #fff    ;
+}
+.sec1{
+    background-color: #D7D7D7;
+    padding: 100px 0;
+    
+}
+.sec2{
+    background-color: #252525    ;
+    padding: 100px 0;
+    color:  #fff
+    ;
+}
+.par1{
+    margin-top: 0px;
+    color: #99d930;
+    font-weight: 900;
+}
+.btn1,.btn2{
+    background-color: #99D930;
+    color:  #252525;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+.btn1:hover,.btn2:hover{
+   background-color: #252525;
+   color:  #fff;
+}
